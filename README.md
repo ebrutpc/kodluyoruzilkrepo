@@ -1,5 +1,5 @@
 #  Kodluyoruz İlk Repo
-[Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo.İçerisnde bir tane README.md bir tane de index.html ve bir images klasörü içinde de resim var.
+[Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo.İçerisnde bir tane README.md bir tane de index.html dosyası var.
 
 ---
 
